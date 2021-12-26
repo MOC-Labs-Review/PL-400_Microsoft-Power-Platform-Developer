@@ -76,7 +76,7 @@ This second screen lets the inspector update the selected Inspection.
 
 2. Create new canvas application
 
-	- Click **+ New** and select **App | Canvas App** **
+	- Click **+ New** and select **App | Canvas**
 	
 	- Select **Tablet Form Factor** from canvas app window.
 
@@ -86,7 +86,9 @@ This second screen lets the inspector update the selected Inspection.
 
     ![Get started popup - screenshot](../L03/Static/Mod_03_Canvas_App_image4.png)
         
-	- Enter **Inspector** for App Name, and click **Create**
+	- Enter **Inspector** for App Name, select Tablet format and click **Create**
+
+	- On the Welcome popup, click **Skip**.
 	
 	- Click **File** and select **Save As**.
 
@@ -113,6 +115,8 @@ This second screen lets the inspector update the selected Inspection.
 	- Click on the **… (Component Options)** button and select Import **Components**.
 
     ![Import components - screenshot](../L03/Static/Mod_03_Canvas_App_image8.png)
+
+	- Browse to **F:\temp\Instructions\L03\Resources**
 
 	- Click **Upload File**.
 
@@ -216,7 +220,7 @@ This second screen lets the inspector update the selected Inspection.
 
 5. Change date time to date only.
 
-	- Expand the **Inspection List** and select **Subtitle**.
+	- Expand the **Inspection List** and select **Subtitle2**.
 
     ![Select subtitle - screenshot](../L03/Static/Mod_03_Canvas_App_image24.png)
 
@@ -332,11 +336,11 @@ This second screen lets the inspector update the selected Inspection.
 
 	- Select the **Inspection Form**.
 
-	- Go to the **Properties** pane and click **Edit Columns**.
+	- Go to the **Properties** pane and click **Edit Fields**.
 
     ![Edit form Columns - screenshot](../L03/Static/Mod_03_Canvas_App_image35.png)
 
-	- Click **Add Column**.
+	- Click **+Add Field**.
 
 	- Select **Status Reason**, **Scheduled Date**, **Name** and **Comments**.
 
@@ -382,9 +386,9 @@ This second screen lets the inspector update the selected Inspection.
 
 	- Select the **Inspection Form**.
 
-	- Go to the **Properties** pane and click **Edit Columns**.
+	- Go to the **Properties** pane and click **Edit Fields**.
 
-	- Expand the **Name** Column.
+	- Expand the **Name** field.
 
     ![Expand Column - screenshot](../L03/Static/Mod_03_Canvas_App_image42.png)
 
