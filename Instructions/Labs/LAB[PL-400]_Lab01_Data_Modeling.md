@@ -85,11 +85,11 @@ To prepare your learning environments you will create a solution and publisher a
 
 2. Create Publisher
 
-	- Click on the **+ Publisher** option available below **Publisher** dropdown.
+	- Click on the **+ New Publisher** option available below **Publisher** dropdown.
 
     ![New publisher - screenshot](../L01/Static/Mod_01_Data_Modeling_image4.png)
 
-	- Enter **Contoso** for **Display Name** and **contoso** for **Prefix.** 
+	- Enter **Contoso** for **Display Name** and **contoso** for **name** and **Prefix.** 
 
 	- Click **Save**.
 
@@ -101,7 +101,7 @@ To prepare your learning environments you will create a solution and publisher a
 
 	- Now, click on the **Publisher** dropdown and select the **Contoso** publisher you just created.
 
-	- Enter **1.0.0.0** for **Version** and click **Create**.
+	- Enter **1.0.0.0** for **Version** and click **Save**.
 
  
 
@@ -167,10 +167,11 @@ To prepare your learning environments you will create a solution and publisher a
 
     ![Add new Table - screenshot](../L01/Static/Mod_01_Data_Modeling_image9.png)
 
-	- Enter **Permit** for **Display Name** and click **Create**. This will start provisioning the Table in background while you can start adding Columns.
+	- Enter **Permit** for **Display Name** and click **Save**. This will start provisioning the Table in background while you can start adding Columns.
 
 3. Create Start Date Column
 
+	- Open the **Permit** table.
 	- Make sure you have the **Columns** tab selected and click **+** **Add Column**.
 
     ![Add Column - screenshot](../L01/Static/Mod_01_Data_Modeling_image10.png)
@@ -225,6 +226,8 @@ To prepare your learning environments you will create a solution and publisher a
 
     ![Navigation breadcrumbs - screenshot ](../L01/Static/Mod_01_Data_Modeling_image13.png)
 
+	- Click on **Tables**.
+	
 	- Click **+ New** and select **Table**.
 
 	- Enter **Permit Type** for **Display Name**.
@@ -267,7 +270,7 @@ To prepare your learning environments you will create a solution and publisher a
 
 	- Enter **Build Site** for **Display Name.**
 
-	- Change the **Display Name** of the **Primary Column** to **Street Address.**
+	- Change the **Display Name** of the **Schema Name** to **Street Address.**
 
 	- Change the **Name** of the **Primary Column** to **street1.**
 
