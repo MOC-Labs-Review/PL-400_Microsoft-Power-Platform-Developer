@@ -52,11 +52,13 @@ As part of building the plugins, you will complete the following activities.
 
 ## Task #1: Create the plugin
 
+**NOTE: When you start Visual Studio, you may be asked to login as the trial has expired. You will need to log in with the username and password listed on the Resource tab. Once you've entered that information, you can use Visual Studio to complete the lab.**
+
 1. Create a Visual Studio project
 
 	- Start **Visual Studio**.
 
-	- Click **File &gt; New &gt; Project**.
+	- Click **Click Continue without code**.
 
 	- Select **Class Library (.NET Framework)** and click **Next**. Make sure you have selected the one with C#.
 
